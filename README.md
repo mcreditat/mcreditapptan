@@ -8,4 +8,4 @@ Ver 1.1: zurückgerufen
 
 Ver 1.2: gelöscht
 
-Ver 1.3: Download verfügbar
+Ver 1.3: https://github.com/mcreditat/mcreditapptan/raw/main/MCredit%20App%20TAN_1.3.apk
